@@ -30,7 +30,7 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/testi.git
+   git clone https://github.com/ft68ggnt26-blip/testi.git
    cd testi
    ```
 
